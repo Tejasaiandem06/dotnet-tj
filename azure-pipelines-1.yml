@@ -19,7 +19,7 @@ variables:
   imagePullSecret: 'tejacontainer8596-auth'
 
   # Agent VM image name
-  vmImageName: 'agenttj'
+  vmImageName: 'self'
 
 
 stages:
